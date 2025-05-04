@@ -14,7 +14,7 @@ Sou um programador **Full Stack Web** com foco em desenvolvimento de aplicaçõe
 ---
 
 ### 📫 Entre em contato
-- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/daniel-kramer-205437229 )
+- LinkedIn: [linkedin.com/in/daniel-kramer-205437229](https://www.linkedin.com/in/daniel-kramer-205437229)
 - Email: seuemail@exemplo.com
 
 ---
@@ -23,6 +23,8 @@ Sou um programador **Full Stack Web** com foco em desenvolvimento de aplicaçõe
 
 <div>
 <a href="https://github.com/woollyhatboy">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woollyhatboy&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=woollyhatboy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
+
