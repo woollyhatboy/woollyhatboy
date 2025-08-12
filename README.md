@@ -15,7 +15,7 @@ Sou um programador **Full Stack Web** com foco em desenvolvimento de aplicaçõe
 
 ### 📫 Entre em contato
 - LinkedIn: [linkedin.com/in/daniel-kramer-205437229](https://www.linkedin.com/in/daniel-kramer-205437229)
-- Email: seuemail@exemplo.com
+- Email: danielkramersantos@hotmail.com
 
 ---
 
